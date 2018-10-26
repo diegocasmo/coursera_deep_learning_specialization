@@ -8,4 +8,4 @@ A repository of multiple projects and labs done for Coursera's Deep Learning spe
   - Run ``conda activate coursera_dl`` to activate environment
 
 ### Courses
-- [Sequence Models](/sequence-models): This course will teach you how to build models for natural language, audio, and other sequence data.
+- [Sequence Models](/sequence_models): This course will teach you how to build models for natural language, audio, and other sequence data.
