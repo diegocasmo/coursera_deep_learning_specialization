@@ -76,5 +76,21 @@ dependencies:
   - xz=5.2.4=h1de35cc_4
   - zeromq=4.2.5=h0a44026_1
   - zlib=1.2.11=hf3cbc9b_2
-prefix: /Users/diegocasmo/miniconda3/envs/coursera_dl
-
+  - pip:
+    - absl-py==0.6.1
+    - astor==0.7.1
+    - gast==0.2.0
+    - grpcio==1.16.0
+    - h5py==2.8.0
+    - keras==2.2.4
+    - keras-applications==1.0.6
+    - keras-preprocessing==1.0.5
+    - markdown==3.0.1
+    - numpy==1.15.3
+    - protobuf==3.6.1
+    - pyyaml==3.13
+    - scipy==1.1.0
+    - tensorboard==1.11.0
+    - tensorflow==1.11.0
+    - termcolor==1.1.0
+    - werkzeug==0.14.1
