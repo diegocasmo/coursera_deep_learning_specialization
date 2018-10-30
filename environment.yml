@@ -86,6 +86,7 @@ dependencies:
     - keras-applications==1.0.6
     - keras-preprocessing==1.0.5
     - markdown==3.0.1
+    - music21==5.5.0
     - numpy==1.15.3
     - protobuf==3.6.1
     - pyyaml==3.13
